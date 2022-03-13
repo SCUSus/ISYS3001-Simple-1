@@ -3,3 +3,5 @@ This is a practise file for modification.
 How about adding a friendly greeting in a language you know that is different to English?
 
 Viel Spass beim Ueben!
+
+Change by SCUSus ... - it's not possible to do directly in the main repository (and shouldn't be!)
